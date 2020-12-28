@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name DKM10E-12)(type KiCad)(uri ${KIPRJMOD}/models/DKM10E-12.pretty)(options "")(descr ""))
+  (lib (name PN12SJNA03QE)(type KiCad)(uri ${KIPRJMOD}/models/PN12SJNA03QE.pretty)(options "")(descr ""))
+)

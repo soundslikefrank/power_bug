@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name DKM10E-12)(type Legacy)(uri ${KIPRJMOD}/models/DKM10E-12.pretty/DKM10E-12.lib)(options "")(descr ""))
+  (lib (name PN12SJNA03QE)(type Legacy)(uri ${KIPRJMOD}/models/PN12SJNA03QE.pretty/PN12SJNA03QE.lib)(options "")(descr ""))
+  (lib (name power_bug-rescue)(type Legacy)(uri ${KIPRJMOD}/power_bug-rescue.lib)(options "")(descr ""))
+)
